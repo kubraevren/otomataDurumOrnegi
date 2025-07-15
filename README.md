@@ -130,10 +130,4 @@ q1 ----> b ----> q2
 Dizge kabul edildi!
 ```
 
-## 🤝 Katkıda Bulunma
-
-Bu proje eğitim amaçlıdır. Önerileriniz ve geliştirmeleriniz için pull request gönderebilirsiniz.
-
----
-
 **Not**: Bu simülatörler, Biçimsel Diller ve Otomata Teorisi dersi kapsamında geliştirilmiştir.
